@@ -200,7 +200,9 @@ footer{
 .footer-colomn{
     width: 50%;
 }
-
+.social-links a{
+    margin-right: 25px;
+}
 .contact input, textarea{
     display: block;
     margin-bottom: 25px;
